@@ -1,3 +1,4 @@
+
 function App() {
   const name = "BTC";
   return (
@@ -11,7 +12,7 @@ function App() {
         fontWeight: "bold",
       }}
     >
-      BTC CI/CD Demo
+      BTC CI/CD Demo {name}
     </div>
   );
 }
