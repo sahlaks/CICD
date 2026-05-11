@@ -1,4 +1,5 @@
 function App() {
+  const name = "BTC";
   return (
     <div
       style={{
